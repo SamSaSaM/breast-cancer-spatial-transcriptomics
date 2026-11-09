@@ -1,0 +1,13 @@
+File: /Users/chouyushu/Downloads/wu2021_spatial/data/metadata/CID44971_metadata.csv
+Shape: (1162, 6)
+Columns: ['Unnamed: 0', 'nCount_RNA', 'nFeature_RNA', 'subtype', 'patientid', 'Classification']
+
+        Unnamed: 0  nCount_RNA  nFeature_RNA subtype patientid                Classification
+AACATTGGTCAGCCGT-1         751           553    TNBC  CID44971 Normal + stroma + lymphocytes
+CATCGAATGGATCTCT-1        2831          1351    TNBC  CID44971 Normal + stroma + lymphocytes
+CGGGTTGTAGCTTTGG-1       15428          4496    TNBC  CID44971 Normal + stroma + lymphocytes
+CCTAAGTGTCTAACCG-1         889           621    TNBC  CID44971 Normal + stroma + lymphocytes
+TCTGTGACTGACCGTT-1        7637          3009    TNBC  CID44971 Normal + stroma + lymphocytes
+
+Barcode column: Unnamed: 0; matching spots: 1160 / 1160
+Review column names and values to identify a validated pathology annotation before S5 comparison.

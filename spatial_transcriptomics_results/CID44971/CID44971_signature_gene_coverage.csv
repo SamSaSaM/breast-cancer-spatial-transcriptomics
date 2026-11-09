@@ -1,0 +1,6 @@
+signature,available_genes,missing_genes
+macrophage_core,"C1QA,C1QB,C1QC,CD68,CSF1R",
+antigen_presentation,"HLA-DRA,HLA-DRB1,CD74",
+inflammatory_myeloid,"IL1B,CXCL8,TNF",
+lipid_associated_myeloid,"APOE,TREM2,SPP1",
+immunoregulatory_myeloid,"CD274,PDCD1LG2,MRC1",
